@@ -1,0 +1,291 @@
+button.comprar span.comprar99:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'99€/u";
+}
+
+button.comprar:hover span.comprar99:after{
+	opacity:1;
+}
+
+button.comprar span.comprar7:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'70€/u";
+}
+
+button.comprar:hover span.comprar7:after{
+	opacity:1;
+}
+
+button.comprar span.comprar75:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'75€/u";
+}
+
+button.comprar:hover span.comprar75:after{
+	opacity:1;
+}
+
+button.comprar span.comprar3:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'30€/u";
+}
+
+button.comprar:hover span.comprar3:after{
+	opacity:1;
+}
+
+button.comprar span.comprarpp:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'90€/4u";
+}
+
+button.comprar:hover span.comprarpp:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarm:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 1'80€/4u";
+}
+
+button.comprar:hover span.comprarm:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarAlf:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'99€/3u";
+}
+
+button.comprar:hover span.comprarAlf:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprar6:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'60€/u";
+}
+
+button.comprar:hover span.comprar6:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarMol:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 1'20€/u";
+}
+
+button.comprar:hover span.comprarMol:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprar4:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'40€/u";
+}
+
+button.comprar:hover span.comprar4:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarpi:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'30€/9u";
+}
+
+button.comprar:hover span.comprarpi:after{
+	opacity:1;
+}
+
+button.comprar span.comprar30:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 2'99€/u";
+}
+
+button.comprar:hover span.comprar30:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarSa:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 0'80€/5u";
+}
+
+button.comprar:hover span.comprarSa:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarMa:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 7'99€/6u";
+}
+
+button.comprar:hover span.comprarMa:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarBi:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 3'50€/u";
+}
+
+button.comprar:hover span.comprarBi:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprar15:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:33;
+	transition:0.5s;
+	content:"\00bb\0020\0020 1'50€/u";
+}
+
+button.comprar:hover span.comprar15:after{
+	opacity:1;
+}
+
+button.comprar span.comprarDul:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:70;
+	transition:0.5s;
+	content:"\00bb\0020\0020 4'99€";
+}
+
+button.comprar:hover span.comprarDul:after{
+	opacity:1;
+}
+
+button.comprar span.comprarAbu:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:70;
+	transition:0.5s;
+	content:"\00bb\0020\0020 2'99€";
+}
+
+button.comprar:hover span.comprarAbu:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarNav:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:70;
+	transition:0.5s;
+	content:"\00bb\0020\0020 3'99€";
+}
+
+button.comprar:hover span.comprarNav:after{
+	opacity:1;
+}
+
+
+button.comprar span.comprarPRM:after{
+	opacity:0;
+	text-align:left;
+	position:absolute;
+	vertical-align:middle;
+	right:50;
+	transition:0.5s;
+	content:"\00bb\0020\0020 15'99€";
+}
+
+button.comprar:hover span.comprarPRM:after{
+	opacity:1;
+}
